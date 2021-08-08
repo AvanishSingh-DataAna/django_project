@@ -5,7 +5,7 @@ Blog Website
 
 # its backend part has been developed by the Django framework of Python.
 
-# this is a blog website where user can read all the blogs in this website.
+ this is a blog website where user can read all the blogs in this website.
 
  if user is login to the website he can comment on any blog. if a user has not log in to the website he can only be able to read all the blogs, 
   but user will not be able to comment on any blog.
